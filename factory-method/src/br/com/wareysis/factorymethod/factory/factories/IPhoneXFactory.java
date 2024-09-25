@@ -1,7 +1,7 @@
-package br.com.wareysis.factory.factories;
+package br.com.wareysis.factorymethod.factory.factories;
 
-import br.com.wareysis.factory.domain.IPhone;
-import br.com.wareysis.factory.domain.IPhoneX;
+import br.com.wareysis.factorymethod.domain.IPhone;
+import br.com.wareysis.factorymethod.domain.IPhoneX;
 
 /**
  * Classe IPhoneXFactory

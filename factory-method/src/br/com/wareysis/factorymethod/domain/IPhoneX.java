@@ -1,4 +1,4 @@
-package br.com.wareysis.factory.domain;
+package br.com.wareysis.factorymethod.domain;
 
 /**
  * Classe IPhoneX
