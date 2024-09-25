@@ -13,9 +13,7 @@ public abstract class IPhoneFactory {
     protected abstract IPhone createIPhone();
 
     public IPhone orderIPhone() {
-        IPhone device = null;
-
-        device = createIPhone();
+        IPhone device = createIPhone();
 
         device.getHardware();
         device.assemble();
