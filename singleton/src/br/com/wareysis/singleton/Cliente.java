@@ -3,8 +3,15 @@ package br.com.wareysis.singleton;
 import br.com.wareysis.singleton.connection.ConnectionPool;
 import br.com.wareysis.singleton.domain.Connection;
 
+
 /**
- * User: Leandro Antonelli Date: 27/09/2024
+ * The Cliente class demonstrates the usage of the ConnectionPool class to manage
+ * and perform database queries. It contains methods to run queries on different
+ * tables and a main method to execute these queries.
+ *
+ * @author gilberto.junior
+ * @since 1.0
+ * @version 1.0
  */
 public class Cliente {
 
